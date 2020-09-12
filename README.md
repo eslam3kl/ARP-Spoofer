@@ -14,9 +14,7 @@ __________________________________
 **Usage**
 
 python arp_spoofer.py -v (victim_ip) -r (router_ip) 
-
-Ex.
-
+_*Ex.*_
 python arp_spoofer.py -v 192.168.1.19 -r 192.168.1.1 
 
 
